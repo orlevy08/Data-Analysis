@@ -1,0 +1,15 @@
+bgu/projects/dataanalysis/learntree/api/DataSetFactory.class
+bgu/projects/dataanalysis/learntree/api/DataSetEntry.class
+bgu/projects/dataanalysis/learntree/api/Tuple3.class
+bgu/projects/dataanalysis/common/MNISTImage.class
+bgu/projects/dataanalysis/learntree/api/DecisionTree$FeatureNode.class
+bgu/projects/dataanalysis/learntree/Main.class
+bgu/projects/dataanalysis/learntree/api/Tuple2.class
+bgu/projects/dataanalysis/common/MNISTCSVParser.class
+bgu/projects/dataanalysis/learntree/api/DecisionTree$DecisionTreeNode.class
+bgu/projects/dataanalysis/learntree/api/DataSetImpl.class
+bgu/projects/dataanalysis/common/DecisionTreeFileReaderWriter.class
+bgu/projects/dataanalysis/learntree/api/DecisionTree.class
+bgu/projects/dataanalysis/learntree/api/DecisionTree$1.class
+bgu/projects/dataanalysis/learntree/api/DecisionTree$LabelNode.class
+bgu/projects/dataanalysis/learntree/api/DataSet.class
